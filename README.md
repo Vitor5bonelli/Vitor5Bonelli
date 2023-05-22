@@ -1,7 +1,7 @@
 # Greetings :eye:
 
-- My name is **Vitor Bonelli**! :fox:
-- I'm an undergraduate student in *System Analysis and Development*, studying at `IFSP-SCL` :flag_br:
+- My name is **Vitor Bonelli**! 🦊
+- I'm an undergraduate student in *System Analysis and Development*, studying at `IFSP-SCL`
 - I have a lot of different interests on IT, like networks, scripting, front-end and more... 🖧
 
 
