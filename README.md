@@ -1,8 +1,8 @@
 # Greetings :eye:
 
 - My name is **Vitor Bonelli**! 🦊
-- I'm an undergraduate student in *System Analysis and Development*, studying at `IFSP-SCL`
-- I have a lot of different interests on IT, like networks, scripting, front-end and more... 🖧
+- I'm an undergraduate student in *System Analysis and Development*, studying at `IFSP-SCL` 📚
+- I have a lot of different interests on IT, like networks, scripting, front-end and more... 💾
 
 
 ![Vitor's Github stats](https://github-readme-stats.vercel.app/api?username=Vitor5Bonelli&show_icons=true&theme=great-gatsby)
