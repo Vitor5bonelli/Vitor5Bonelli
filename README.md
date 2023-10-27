@@ -4,9 +4,8 @@
 - I'm an undergraduate student in *System Analysis and Development*, studying at `IFSP-SCL` 📚
 - I have a lot of different interests on IT, but i mostly wanna focus on **Web Dev** and **Cybersecurity** 💾
   
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bonelli5.vitor@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-bonelli-580b63243/)
 ---
 <div align="center">
   
