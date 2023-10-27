@@ -2,7 +2,7 @@
 <div align="center">
   My name is <b>Vitor Bonelli</b>! 🦊
   <br>
-  I'm an undergraduate student in <i>System Analysis and Development</i>, studying at <u>IFSP-SCL</u> 📚
+  I'm an undergraduate student in <i>System Analysis and Development</i>, studying at <b>IFSP-SCL</b> 📚
   <br>
   I have a lot of different interests on IT, but i mostly wanna focus on <b>Web Dev</b> and <b>Cybersecurity</b> 💾
 </div>
